@@ -1,0 +1,8 @@
+Borth:1500:VILLAGE
+Tal-y-bont:700:VILLAGE
+Aberystwyth:20000:TOWN
+Bow Street:2000:VILLAGE
+Rhydypennau:100:HAMLET
+Penparcau:3100:VILLAGE
+Llanbadarn:3000:VILLAGE
+bowstreet:2000:VILLAGE

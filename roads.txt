@@ -1,0 +1,14 @@
+B4353:B:Rhydypennau:Borth:3.6
+A487:A:Rhydypennau:Tal-y-bont:2.7
+A487:A:Aberystwyth:Penparcau:0.9
+A487:A:Aberystwyth:bowstreet:3.4
+A44:A:Aberystwyth:Llanbadarn:1.2
+B4353:B:Rhydypennau:Borth:3.6
+A487:A:Rhydypennau:Tal-y-bont:2.7
+A487:A:bowstreet:Rhydypennau:0.9
+A487:A:Aberystwyth:Penparcau:0.9
+hoel-y-bont:U:Penparcau:Llanbadarn:0.8
+A44:A:Aberystwyth:Llanbadarn:1.2
+hoel-y-bont:U:Penparcau:Llanbadarn:0.8
+A487:A:Aberystwyth:bowstreet:3.4
+A487:A:bowstreet:Rhydypennau:0.9
